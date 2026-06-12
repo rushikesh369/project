@@ -6,3 +6,5 @@ This folder has multiple projects.
    - Terraform - IaC 
    - GitHub Actions - CI/CD
    - Python and HTML for a sample HTML template and Python server to run.
+
+2. K8S project implementation for 2048 game
